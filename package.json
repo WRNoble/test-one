@@ -34,7 +34,7 @@
     ]
   },
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
-  "main": "app.js",
+  "main": "index.js",
   "devDependencies": {},
   "repository": {
     "type": "git",
@@ -45,6 +45,6 @@
   "license": "ISC",
   "homepage": "https://WRNoble.github.io/test",
   "bugs": {
-    "url": "https://github.com/WRNoble/test-one/issues"
+    "url": "https://github.com/wrnoble/test-one/issues"
   }
 }
